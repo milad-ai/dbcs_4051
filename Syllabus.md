@@ -3,9 +3,7 @@ layout: page
 title: Syllabus
 permalink: /Syllabus/
 ---
-Here's the final revised version with **Power BI removed** as well:
 
----
 
 # **Course Objectives**
 
