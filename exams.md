@@ -9,10 +9,6 @@ permalink: /exams/
 - **Weight:** 6 points  
 - **Chapters Covered:**  
   - Chapter _  
-- **Exam Structure:**  
-  - 1.5 points: Short-answer questions  
-  - 1.5 points: Multiple-choice questions  
-  - 2 points: Analytical questions
 
 ---
 
