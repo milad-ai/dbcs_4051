@@ -6,9 +6,9 @@ permalink: /project/
 
 ## Final Project
 
-- **Total Weight:** 5 points  
+- **Total Weight:** 6 points  
 
-For the final project, each student must design and implement a complete database system from scratch and deploy it using Streamlit and PostgreSQL, leveraging **Ploomber Cloud** for deployment and **Neon** for serverless PostgreSQL database management.
+For the final project, each student must design and implement a complete database system from scratch and deploy it using Flask and PostgreSQL, leveraging **Vercel** for deployment (or running locally) and **Neon** for serverless PostgreSQL database management.
 
 ### Steps and Grading
 
@@ -36,6 +36,8 @@ For the final project, each student must design and implement a complete databas
    - Write raw SQL queries for all database operations.
    - Design simple HTML templates with **Jinja2** for the front-end.
 
+6. **Building a RESTful API with FastAPI and SQLModel (1 point)**  
+   - Implement a RESTful API using **FastAPI**
 ---
 
-> **Note:** The project must be deployed  and include full documentation of each step.
+> **Note:** The project must be deployed on **Vercel** (or run locally) and include full documentation of each step.
