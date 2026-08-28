@@ -42,38 +42,11 @@ The primary hands-on environment will be **PostgreSQL**, supplemented by **DuckD
 In the final project, students will design and implement a complete database system from conceptual modeling to relational implementation, accompanied by an interactive analytical dashboard and a simple web application for data exploration and reporting.
 
 
-# **📚 [View Detailed Teaching Plan](https://dbcs.ir/Teaching_Schedule/)↵**
-
-
 ## **Homework Assignments**
 
-You will have five sets of homework assignments, which together carry a total of 5 points. These assignments include both theoretical and practical exercises to help reinforce your learning throughout the course (See the [homework page](https://dbcs.ir/assignments/), which will be updated during the course). The due dates for these assignments will be posted on this website.
-
-## Homework Submission Instructions
-{% include image.html url="/_images/Annotation 2025-08-04 194554.png" width=450 align="right" %}
-{% include image.html url="/_images/Annotation 2025-08-05 113141.png" width=450 align="right" %}
-Please follow the instructions to turn in your homework:  
-
-- Homeworks must be submitted electronically.  
-- The **subject line of your email** must follow this naming scheme:  
-  - `HW<2-digits homework number>_<LastName>_<FirstName>`  
-  - For instance, my first homework would be called: `HW01_Vazan_Milad`  
-  - 📧 Send your homework to **hw@dbcs.ir**
-
-⚠️ **Important:** Emails with this exact subject format will receive an automatic confirmation reply upon submission. If you do not receive this confirmation within **five minutes**, it means your email was not received.  
-
-> The **deadline** for each assignment will be **announced separately**. An **automatic reminder** will be sent **one day before the deadline** to the email address you provided to the instructor during the **first session**.
-
-> If the **deadline is extended**, students who have **not submitted** their assignment will receive another **automatic email** **one day before the new deadline**.
+You will have six sets of homework assignments, which together carry a total of 5 points. These assignments include both theoretical and practical exercises to help reinforce your learning throughout the course (See the [homework page](https://dbcs.ir/assignments/), which will be updated during the course). The due dates for these assignments will be posted on this website.
 
 
-
-## **Exams**
-
-The course will include **two exams**. Both exams will assess the required readings and topics covered in class. The first exam will be an "in-class" [midterm](https://dbcs.ir//exams), while the second will be a [final exam](https://dbcs.ir//exams) scheduled during the University's final examination period at the end of the semester.
-
-**If you need to miss the midterm test due to illness or a family affliction, please contact me by email. A make-up exam for the midterm might be organized.**
-{: 	.text-green-200 }
 
 ## **Attendance and Participation**
 {% include image.html url="/_images/Annotation 2025-08-04 193843.png" width=500 align="right" %}
@@ -99,38 +72,12 @@ For any issues at all, please reach out to the instructor:
 - Speak with me before class  
 - Raise your hand or speak up during class
 
-## **Required Tools and Accounts**
 
-To successfully participate in this course, students are expected to prepare the following tools and accounts prior to the practical sessions:
 
-- **Python**: [Install](https://www.python.org/downloads/) the latest stable version of Python for running scripts and interacting with databases.  
-- **GitHub Account**: Create a [GitHub](https://github.com/) account.
-- **Streamlit Account and GitHub Integration**: Link your GitHub account to [Streamlit](https://share.streamlit.io/) to deploy database-driven web applications.
-- **Ploomber Cloud**: [create a Ploomber Cloud account](https://www.platform.ploomber.io/register/)
-- **[Visual Studio Code](https://code.visualstudio.com/download)**
-- **[PostgreSQL](https://www.postgresql.org/download/)**
-- **Neon**: Sign up at [Neon](https://neon.com/) for serverless PostgreSQL database hosting.
-- **DuckDB**: Install DuckDB for lightweight, embedded database tasks and analytical queries.
-- **[Power BI](https://powerbi.microsoft.com/)**: Used for data visualization and creating interactive dashboards to analyze database results. (Optional – used in one session for connecting to PostgreSQL and creating basic visualizations)
-- **Marimo**: This will be used as the primary environment for interactive notebooks and coding sessions.
-  > pip install "marimo[recommended]"
-- **Pandas**:
-  > pip install pandas
-- **PySpark**:
-  > pip install pyspark
-
- 
-
-### **Hardware Requirement**
-
-For the SQL and practical sessions, students will need **a laptop or a smartphone** to follow along and complete in-class exercises.
 
 ## **Collaboration Policy**
 
 You are encouraged to discuss the content of this course with anyone you like; however, it is essential to **maintain academic integrity** in your work. All homework assignments, projects, and exams must be completed independently, meaning you are not permitted to copy any part of another student’s solution, collaborate with others on your assignments, or use solutions from unauthorized sources, including the Internet. **Therefore, the solution you submit for each assignment must be solely your own, reflecting your understanding and effort.**
-
-
-### **📜 [View Generative AI Usage Guidelines](https://dbcs.ir/AI_Guidelines/)↵**
 
 
 ## **Related Courses**
