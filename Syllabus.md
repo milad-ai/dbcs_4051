@@ -16,7 +16,6 @@ Students will gain proficiency in **relational database concepts** through **Ent
 The course also introduces key **data concepts and ethical considerations**:  
 
 - Understanding the **data hierarchy (DIKW pyramid: Data → Information → Knowledge → Wisdom)**.  
-- Introducing **bias and basic ethical issues** in working with data, along with emerging concepts such as **dataism**.  
 - Learning the **four levels of data analytics**: descriptive, diagnostic, predictive, and prescriptive.
   
 Beyond the fundamentals, the course introduces **modern trends and tools** in database management, such as:
