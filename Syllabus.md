@@ -3,7 +3,12 @@ layout: page
 title: Syllabus
 permalink: /Syllabus/
 ---
+Here's the final revised version with **Power BI removed** as well:
+
+---
+
 # **Course Objectives**
+
 This course provides a comprehensive introduction to **database management systems (DBMS)** and their role in modern data-driven applications. It covers the **fundamentals of database theory**, **conceptual and logical design**, and **data access and manipulation** while emphasizing **best practices** for modeling, implementation, and optimization.
 
 Students will gain proficiency in **relational database concepts** through **Entity-Relationship (ER) modeling**, mapping ER diagrams to **relational schemas**, and formulating complex **SQL queries** for real-world analytical tasks.
@@ -19,11 +24,13 @@ Beyond the fundamentals, the course introduces **modern trends and tools** in da
 - **Embedded and analytical databases** (e.g., DuckDB) for fast local processing.
 - **Analytical vs transactional systems**: understanding **OLAP (Online Analytical Processing)** vs **OLTP (Online Transaction Processing)**.
 - **Data Warehouse** vs **Data Lake** vs **Lakehouse** architectures: understanding their differences, purposes, and how they integrate in modern data ecosystems.
-- **Introduction to NoSQL databases** (e.g., MongoDB) and understanding when to choose them over relational systems.
-- **Query optimization and indexing** for improved performance in large datasets. 
-- **Big Data frameworks** (e.g., PySpark) for large-scale data analytics.  
-- **Vector Databases** and their role in **AI-driven semantic search** and **retrieval-augmented generation (RAG)**, including a **pgvector tutorial** demonstrating how to integrate vector search into PostgreSQL for similarity queries and AI use cases.
-- **Integration with visualization tools** (Power BI) and **web applications** (Streamlit) for presenting insights interactively.
+- **Introduction to NoSQL databases**, including:
+  - **Document databases** (e.g., MongoDB) for flexible, schema-less data storage.
+  - **Graph databases** (e.g., Neo4j) for managing highly connected data and relationship-driven queries.
+  - **Vector databases** (e.g., Qdrant) for AI-driven semantic search and retrieval-augmented generation (RAG), with practical guidance on using vector similarity for modern AI use cases.
+- Understanding when to choose each NoSQL paradigm over relational systems, and the trade-offs involved.
+- **Query optimization and indexing** for improved performance in large datasets.
+- **API development** with **FastAPI** to expose database-backed services for web and mobile applications.
 
 Upon successful completion of this course, the student will be able to:
 
@@ -32,20 +39,19 @@ Upon successful completion of this course, the student will be able to:
 - Differentiate between **OLAP and OLTP systems** and understand their real-world use cases.
 - Compare Data Warehouse, Data Lake, and Lakehouse approaches and determine when each is most effective.
 - Formulate SQL queries effectively for data retrieval and manipulation.  
-- Compare relational approaches with **NoSQL** paradigms and understand their trade-offs.
-- Learn to connect databases with **Python** and perform **data analysis with Pandas and PySpark**.  
-- Perform **data extraction, transformation, and visualization** to support business decisions.
+- Compare relational approaches with **NoSQL** paradigms (document, graph, and vector) and understand their trade-offs.
+- Work with **MongoDB** for document-based storage, **Neo4j** for graph data modeling and traversal, and **Qdrant** for vector similarity search.
+- Learn to connect databases with **Python**.
+- Build **RESTful APIs** using **FastAPI** to interact with databases.
 
-
-The primary hands-on environment will be **PostgreSQL**, supplemented by **DuckDB, Marimo notebooks, and Power BI**, providing both industry-standard and cutting-edge perspectives on database management.
 
 In the final project, students will design and implement a complete database system from conceptual modeling to relational implementation, accompanied by an interactive analytical dashboard and a simple web application for data exploration and reporting.
 
+---
 
 ## **Homework Assignments**
 
-You will have six sets of homework assignments, which together carry a total of 5 points. These assignments include both theoretical and practical exercises to help reinforce your learning throughout the course (See the [homework page](https://dbcs.ir/assignments/), which will be updated during the course). The due dates for these assignments will be posted on this website.
-
+You will have between **6 to 10 sets of homework assignments**, which together carry a total of **6 points**. These assignments include both theoretical and practical exercises to help reinforce your learning throughout the course, which will be updated during the course). The due dates for these assignments will be posted on this website.
 
 
 ## **Attendance and Participation**
