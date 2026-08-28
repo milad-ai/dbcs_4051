@@ -25,8 +25,16 @@ For the final project, each student must design and implement a complete databas
 4. **SQL Implementation (1 point)**  
    - Write SQL scripts to create tables and populate them with sample data in PostgreSQL.
 
-5. **Streamlit Application (1 point)**  
-   - Build a user interface with Streamlit to interact with the database (e.g., insert, update, query).
+5. **Web Application Development with Flask (1 point)**  
+   - Build a web application using Flask to interact with the database.  
+   - Implement at least the following functionalities:
+     - **Insert:** Add new records to the database via a web form.
+     - **Delete:** Remove records.
+     - **Update:** Modify existing records.
+     - **Query:** Search and display records with filters.
+   - Use **psycopg2** for direct database connectivity (no ORM allowed).
+   - Write raw SQL queries for all database operations.
+   - Design simple HTML templates with **Jinja2** for the front-end.
 
 ---
 
