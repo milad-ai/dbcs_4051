@@ -4,21 +4,9 @@ title: Exams
 permalink: /exams/
 ---
 
-## Midterm Exam
-- **Date:** ? 1404  
-- **Weight:** 3 points  
-- **Chapters Covered:**  
-  - Chapter _  
-- **Exam Structure:**  
-  - 1 point: Short-answer questions  
-  - 1 point: Multiple-choice questions  
-  - 1 point: Analytical question
-
----
-
 ## Final Exam
-- **Date:** ? 1404  
-- **Weight:** 5 points  
+- **Date:** ? 1405  
+- **Weight:** 6 points  
 - **Chapters Covered:**  
   - Chapter _  
 - **Exam Structure:**  
