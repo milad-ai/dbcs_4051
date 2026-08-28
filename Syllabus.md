@@ -50,8 +50,7 @@ In the final project, students will design and implement a complete database sys
 
 ## **Homework Assignments**
 
-You will have between **6 to 10 sets of homework assignments**, which together carry a total of **6 points**. These assignments include both theoretical and practical exercises to help reinforce your learning throughout the course, which will be updated during the course). The due dates for these assignments will be posted on this website.
-
+You will have between **6 to 10 sets of homework assignments**, which together carry a total of **6 points**. These assignments include both theoretical and practical exercises to help reinforce your learning throughout the course, which will be updated during the course. 
 # **Grading**
 - Class attendance and participation: **2** points 
 - Homeworks: **6** points
