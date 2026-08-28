@@ -61,7 +61,7 @@ You will have between **6 to 10 sets of homework assignments**, which together c
 # **Grading**
 - Class attendance and participation: **2** points 
 - Homeworks: **6** points
-- Final project: ** 6** points 
+- Final project: **6** points 
 - Final exam: **6** points 
 
 
