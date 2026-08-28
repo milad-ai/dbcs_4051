@@ -37,7 +37,7 @@ For the final project, each student must design and implement a complete databas
    - Design simple HTML templates with **Jinja2** for the front-end.
 
 6. **Building a RESTful API with FastAPI and SQLModel (1 point)**  
-   - Implement a RESTful API using **FastAPI**
+   - Implement a RESTful API using FastAPI
 ---
 
 > **Note:** The project must be deployed on **Vercel** (or run locally) and include full documentation of each step.
