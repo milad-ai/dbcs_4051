@@ -21,8 +21,8 @@ The course also introduces key **data concepts and ethical considerations**:
 Beyond the fundamentals, the course introduces **modern trends and tools** in database management, such as:
 
 - **Embedded and analytical databases** (e.g., DuckDB) for fast local processing.
-- **Analytical vs transactional systems**: understanding **OLAP (Online Analytical Processing)** vs **OLTP (Online Transaction Processing)**.
-- **Data Warehouse** vs **Data Lake** vs **Lakehouse** architectures: understanding their differences, purposes, and how they integrate in modern data ecosystems.
+
+- **Data Warehouse** vs **Data Lake** vs **Lakehouse** architectures
 - **Introduction to NoSQL databases**, including:
   - **Document databases** (e.g., MongoDB) for flexible, schema-less data storage.
   - **Graph databases** (e.g., Neo4j) for managing highly connected data and relationship-driven queries.
